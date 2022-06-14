@@ -61,8 +61,9 @@ As of 6/14/22:
 Copyright 2022 (c) Todd Pangilinan 
 
 Status: 
-* establish views
-* home page and controller
-* devise: set up admin permissions
-* add navbar w/links for login/logout
+* establish views (waiting to completely flesh out...need images first, profile page, usres page/link)
+* update navbar w/links for login/logout
+* fix new_image link
+* devise: set up admin permissions (routes)
+* active storage
 * troubleshoot
